@@ -15,8 +15,8 @@ import java.util.Scanner;
 public class Main {
 
     private static String endPoint = "https://www.googleapis.com/customsearch/v1?";
-    private static String apiKey = "KEY";
-    private static String cx = "CS";
+    private static String apiKey = "AIzaSyDkBAolh2nEbGAxAcifKETCVH7VJ1R4-WI";
+    private static String cx = "010552605714490616389:7iliw8fr8vz";
 
     public static void main(String[] args) throws Exception {
         // Ingresar objetivo.

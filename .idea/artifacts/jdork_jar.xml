@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jdork:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jdork_jar</output-path>
+    <root id="archive" name="jdork.jar">
+      <element id="module-output" name="jdork" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
